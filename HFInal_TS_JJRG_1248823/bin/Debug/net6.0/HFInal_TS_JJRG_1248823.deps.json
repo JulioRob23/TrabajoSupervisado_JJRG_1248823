@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HFInal_TS_JJRG_1248823/1.0.0": {
+        "runtime": {
+          "HFInal_TS_JJRG_1248823.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HFInal_TS_JJRG_1248823/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
