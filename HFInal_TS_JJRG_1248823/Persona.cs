@@ -22,11 +22,12 @@ namespace HFInal_TS_JJRG_1248823
             double alturam = alturacm / 100;
             return alturam;
         }
-        public void Imprimir()
+        public void Imprimir(int numero)
         {
-            Console.WriteLine("Persona: " + NombreCompleto());
+            Console.WriteLine("Persona:" + numero);
+           Console.WriteLine("Nombre: "+ NombreCompleto());
             Console.WriteLine("Edad: " + edad);
-            Console.WriteLine("Altura: " + Alturaenm());
+            Console.WriteLine("Altura: " + Alturaenm()+"m");
          
         }
         public Persona(string elnombre, string elapellido, int laedad, double laalturacm)
